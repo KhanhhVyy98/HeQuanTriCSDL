@@ -1,0 +1,10 @@
+* QUẢN TRỊ CƠ SỞ DỮ LIỆU HỆ THỐNG QUẢN LÝ NHÂN SỰ - TIỀN LƯƠNG CÔNG TY H&M *
+
+- bao gồm 2 mức người dùng là quản lý và nhân viên:
+	+ Mức quản lý: tạo login quản lý. User đăng nhập vào là Mã Nhân Viên (MaNV).
+			   Ở đây ví dụ mã Nhân viên QL01 là tên user đăng nhập vào.
+			   Với user QL01 và mật khẩu là 'quanly'.
+			   Quản lý sẽ được cung cấp mọi quyền trên bảng Nhân Viên và cập nhật thông tin bảng Chấm Công.
+	+ Mức nhân viên: tạo login nhân viên. User đăng nhậo vào là Mã Nhân Viên (MaNV).
+			     Ở đây ví dụ mã Nhân Viên NV01 là tên user đăng nhập vào.
+			     Với user NV01 chỉ được xem thông tin trên bảng Nhân Viên và xem thông tin bảng Chấm Công. Nếu có sai sót báo cáo lại quản lý chứ không được tự ý cập nhật thông tin hai bảng trên.
